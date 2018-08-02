@@ -1,1 +1,23 @@
-
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+h1{
+  font-size:66px;
+}
+p{
+  font-size:23px
+}
+h2{
+  font-size:47px
+}
+img {
+  padding: 40px;
+}
+h1{
+  font-size:30px;
+}
+.right {
+  text-align:center;
+}
